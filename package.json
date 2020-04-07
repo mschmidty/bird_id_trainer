@@ -1,0 +1,23 @@
+{
+  "name": "bird_id_trainer",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eleventy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mschmidty/bird_id_trainer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mschmidty/bird_id_trainer/issues"
+  },
+  "homepage": "https://github.com/mschmidty/bird_id_trainer#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.0-beta.3"
+  }
+}

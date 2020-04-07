@@ -1,4 +1,4 @@
-fetch("cleaned_list_with_filenames.csv")
+fetch("/data/cleaned_list_with_filenames.csv")
   .then((response)=>{
     return response.text()
   })
