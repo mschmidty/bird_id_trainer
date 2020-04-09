@@ -3,9 +3,9 @@ fetch("data/cleaned_list_with_filenames.csv")
     return response.text()
   })
   .then((data) => {
-    const lines = data.split("\n")
+    const lines = data.trim().split("\n")
     const result = []
-    const headers = lines[0].split(",");
+    const headers = lines[0].trim().split(",");
 
     for(let i = 1; i<lines.length; i++){
       let obj = {}
@@ -20,6 +20,7 @@ fetch("data/cleaned_list_with_filenames.csv")
 
       `
       <div class = "card">
+        <img src="/images/${data.common_name}.jpg">
         <h2>${data.common_name}</h2>
         <p>${data.species}</p>
         <audio controls src = "/${data.audio_file_path}"></audio>

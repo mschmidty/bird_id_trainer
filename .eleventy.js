@@ -6,4 +6,5 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("js");
   eleventyConfig.addPassthroughCopy("data");
   eleventyConfig.addPassthroughCopy("bird_songs_of_the_rockies");
+  eleventyConfig.addPassthroughCopy("images");
 };
