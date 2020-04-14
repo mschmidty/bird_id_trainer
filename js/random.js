@@ -3,7 +3,7 @@ fetch("/data/cleaned_list_with_filenames.csv")
     return response.text()
   })
   .then((data) => {
-    const lines = data.split("\n")
+    const lines = data.trim().split("\n")
     const result = []
     const headers = lines[0].trim().split(",");
 
@@ -15,8 +15,7 @@ fetch("/data/cleaned_list_with_filenames.csv")
       }
       result.push(obj)
     }
-    console.log(shuffle(result).slice(0,8))
-    let markup = result.slice(0,8).map(data =>
+    let markup = shuffle(result).slice(0,8).map(data =>
 
       `
       <div class = "card">

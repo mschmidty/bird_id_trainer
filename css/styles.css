@@ -95,12 +95,16 @@ div.card:nth-of-type(2n){
   box-shadow:  2px 2px 5px rgba(0,0,0,0.2),
              -2px -2px 5px #ffffff;
 }
-.entry-header{
+header.entry-header{
+  width:95%;
+  max-width:1200px;
+  margin:0 auto;
+}
+header.entry-header h1{
   font-size: 7rem;
   text-align: left;
-  max-width:95%;
-  margin:40px auto 20px auto;
   color: #8E44AD;
+  margin-bottom: 1rem;
 }
 
 .display-none{
@@ -117,4 +121,15 @@ div.card:nth-of-type(2n){
   border-radius:5px;
   text-align: center;
   margin-left:2.5%;
+}
+
+/* Select JS CSS */
+.list-of-selections {
+  display: flex;
+  flex-wrap: wrap;
+
+}
+.list-of-selections li{
+  list-style-type:none;
+  width: 33%;
 }
