@@ -2,8 +2,23 @@
 layout: default.html
 customjs: "/js/select.js"
 ---
-<h2>Make a Selection</h2>
+<header class = "entry-header">
+  <h1 class = "entry-header">Select Birds to Study</h1>
+</header>
+
 <ul class="list-of-selections" id="listOfSelections">
 
 </ul>
-<button id="clickSelect">Get Birds</button>
+<div class="center-contents">
+  <button class="button" id="clickSelect">Get Birds</button>
+</div>
+
+
+<header class = "entry-header">
+  <h2>Your list of birds will appear down here:</h2>
+  <a href="#" class="button toggle-headers" id="toggleHeaders">Toggle Headers</a>
+  <a href="#" class="button toggle-headers" id="mixUp">Mixup</a>
+</header>
+
+<div class="card-wrap" id="call-list">
+</div>
