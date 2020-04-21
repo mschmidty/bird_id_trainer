@@ -167,3 +167,16 @@ button.button{
   justify-content:center;
   align-items:center;
 }
+
+.bird-options{
+  margin:20px;
+  display:block;
+}
+
+.correct-answer.card{
+  box-shadow:0 0 20px #01CA23;
+}
+
+.incorrect-answer{
+  box-shadow:0 0 20px #FF5733;
+}

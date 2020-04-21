@@ -33,3 +33,25 @@ function toggleVis(cl){
     elements[k].classList.toggle('display-none')
   }
 }
+
+document.getElementById("checkAnswers").addEventListener('click', function(e){
+  const allCardsSelect = document.getElementsByClassName("bird-options")
+  const allCardsValue = document.getElementsByClassName("card")
+  for(let i = 0; i<allCardsValue.length; i++){
+    console.log(allCardsValue[i].getAttribute('value'))
+    console.log(allCardsSelect[i].value)
+
+    let value = allCardsValue[i].getAttribute('value')
+    let select = allCardsSelect[i].value
+
+    allCardsValue[i].classList.remove("correct-answer")
+    allCardsValue[i].classList.remove("incorrect-answer")
+
+    if(value == select){
+      allCardsValue[i].classList.add("correct-answer")
+    }else{
+      allCardsValue[i].classList.add("incorrect-answer")
+    }
+  }
+  e.preventDefault()
+})

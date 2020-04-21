@@ -15,14 +15,20 @@ fetch("/data/cleaned_list_with_filenames.csv")
       }
       result.push(obj)
     }
-    let markup = shuffle(result).slice(0,8).map(data =>
+    let shuffledResult = shuffle(result).slice(0,8)
+    let markup = shuffledResult.map(data =>
 
       `
-      <div class = "card">
+      <div class = "card" value="${data.common_name}">
         <div class = "hide-show-el">
           <img src="/images/${data.common_name}.jpg">
           <h2>${data.common_name}</h2>
           <p>${data.species}</p>
+        </div>
+        <div class="check-if-correct hide-show-el display-none">
+          <select name="birdOptions" id="birdOptions" class="bird-options">
+            <option value="">--Please choose an option--</option>
+          </select>
         </div>
         <audio controls src = "/${data.audio_file_path }" class = "audio-el"></audio>
       </div>
@@ -31,6 +37,17 @@ fetch("/data/cleaned_list_with_filenames.csv")
     ).join("")
 
     document.getElementById("call-list").innerHTML = markup
+    return shuffledResult
+  }).then((shuffledResult) =>{
+    let dropDownOptions = shuffledResult.map(data =>
+      `
+      <option value = "${data.common_name}">${data.common_name}</option>
+      `
+    ).join("")
+    let dropDowns = document.getElementsByClassName("bird-options")
+    for(let i = 0; i<dropDowns.length; i++){
+      dropDowns[i].innerHTML += dropDownOptions
+    }
   })
 
   function shuffle(array){

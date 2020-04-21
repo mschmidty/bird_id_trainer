@@ -12,3 +12,7 @@ customjs: "/js/random.js"
 
 <div class="card-wrap" id="call-list">
 </div>
+
+<div class="center-contents">
+  <button class="button" id="checkAnswers">Check Answers</button>
+</div>
