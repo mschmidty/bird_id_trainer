@@ -15,4 +15,5 @@ customjs: "/js/random.js"
 
 <div class="center-contents">
   <button class="button" id="checkAnswers">Check Answers</button>
+  <button class="button" id="keepStudying">Keep Studying</button>
 </div>

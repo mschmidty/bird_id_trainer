@@ -1,0 +1,87 @@
+common_name,order,family,genus,species,audio_file_path
+American Crow,Passeriformes,Corvidae,Corvus,Corvus brachyrhynchos,bird_songs_of_the_rockies/003 American Crow.m4a
+American Goldfinch,Passeriformes,Fringillidae,Spinus,Spinus tristis,bird_songs_of_the_rockies/005 American Goldfinch.m4a
+American Kestrel,Falconiformes,Falconidae,Falco,Falco sparverius,bird_songs_of_the_rockies/006 American Kestrel.m4a
+American Robin,Passeriformes,Turdidae,Turdus,Turdus migratorius,bird_songs_of_the_rockies/009 American Robin.m4a
+Ash-throated Flycatcher,Passeriformes,Tyrannidae,Myiarchus,Myiarchus cinerascens,bird_songs_of_the_rockies/073 Flycatcher - Ash-throated.m4a
+Black-billed Magpie,Passeriformes,Corvidae,Pica,Pica hudsonia,bird_songs_of_the_rockies/020 Black-Billed Magpie.m4a
+Black-capped Chickadee,Passeriformes,Paridae,Poecile,Poecile atricapillus,bird_songs_of_the_rockies/050 Chickadee - Black-Capped.m4a
+Black-chinned Hummingbird,Apodiformes,Trochilidae,Archilochus,Archilochus alexandri,bird_songs_of_the_rockies/104 Hummingbird - Black-chinned.m4a
+Bewick's Wren,Passeriformes,Troglodytidae,Thryomanes,Thryomanes bewickii,bird_songs_of_the_rockies/251 Wren - Bewick's.m4a
+Blue-gray Gnatcatcher,Passeriformes,Polioptilidae,Polioptila,Polioptila caerulea,bird_songs_of_the_rockies/028 Blue-gray Gnatcatcher.m4a
+Brown-headed Cowbird,Passeriformes,Icteridae,Molothrus,Molothrus ater,bird_songs_of_the_rockies/037 Brown-headed Cowbird.m4a
+Black-headed Grosbeak,Passeriformes,Cardinalidae,Pheucticus,Pheucticus melanocephalus,bird_songs_of_the_rockies/022 Black-headed Grosbeak.m4a
+Blue Grosbeak,Passeriformes,Cardinalidae,Passerina,Passerina caerulea,bird_songs_of_the_rockies/029 Blue Grosbeak.m4a
+Brewer's Blackbird,Passeriformes,Icteridae,Euphagus,Euphagus cyanocephalus,bird_songs_of_the_rockies/034 Brewer's Blackbird.m4a
+Brown Creeper,Passeriformes,Certhiidae,Certhia,Certhia americana,bird_songs_of_the_rockies/038 Brown Creeper.m4a
+Brewer's Sparrow,Passeriformes,Passerellidae,Spizella,Spizella breweri,bird_songs_of_the_rockies/035 Brewer's Sparrow.m4a
+Broad-tailed Hummingbird,Apodiformes,Trochilidae,Selasphorus,Selasphorus platycercus,bird_songs_of_the_rockies/105 Hummingbird - Broad-tailed.m4a
+Band-tailed Pigeon,Columbiformes,Columbidae,Patagioenas,Patagioenas fasciata,bird_songs_of_the_rockies/015 Band-tailed Pigeon.m4a
+Black-throated Sparrow,Passeriformes,Passerellidae,Amphispiza,Amphispiza bilineata,bird_songs_of_the_rockies/025 Black-throated Sparrow.m4a
+Black-throated Gray Warbler,Passeriformes,Parulidae,Setophaga,Setophaga nigrescens,bird_songs_of_the_rockies/024 Black-throated Gray Warbler.m4a
+Burrowing Owl,Strigiformes,Strigidae,Athene,Athene cunicularia,bird_songs_of_the_rockies/042 Burrowing Owl.m4a
+Bushtit,Passeriformes,Aegithalidae,Psaltriparus,Psaltriparus minimus,bird_songs_of_the_rockies/043 Bushtit.m4a
+Cassin's Finch,Passeriformes,Fringillidae,Haemorhous,Haemorhous cassinii,bird_songs_of_the_rockies/046 Cassin's Finch.m4a
+Cassin's Kingbird,Passeriformes,Tyrannidae,Tyrannus,Tyrannus vociferans,bird_songs_of_the_rockies/116 Kingbird - Cassin's.m4a
+Canyon Wren,Passeriformes,Troglodytidae,Catherpes,Catherpes mexicanus,bird_songs_of_the_rockies/252 Wren - Canyon.m4a
+Chipping Sparrow,Passeriformes,Passerellidae,Spizella,Spizella passerina,bird_songs_of_the_rockies/052 Chipping Sparrow.m4a
+Cliff Swallow,Passeriformes,Hirundinidae,Petrochelidon,Petrochelidon pyrrhonota,bird_songs_of_the_rockies/207 Swallow - Cliff.m4a
+Cordilleran Flycatcher,Passeriformes,Tyrannidae,Empidonax,Empidonax occidentalis,bird_songs_of_the_rockies/074 Flycatcher - Cordilleran.m4a
+Common Grackle,Passeriformes,Icteridae,Quiscalus,Quiscalus quiscula,bird_songs_of_the_rockies/059 Common Grackle.m4a
+Common Nighthawk,Caprimulgiformes,Caprimulgidae,Chordeiles,Chordeiles minor,bird_songs_of_the_rockies/140 Night Hawk - Common.m4a
+Common Poorwill,Caprimulgiformes,Caprimulgidae,Phalaenoptilus,Phalaenoptilus nuttallii,bird_songs_of_the_rockies/164 Poorwill - Common.m4a
+Common Raven,Passeriformes,Corvidae,Corvus,Corvus corax,bird_songs_of_the_rockies/168 Raven - Common.m4a
+Downy Woodpecker,Piciformes,Picidae,Dryobates,Dryobates pubescens,bird_songs_of_the_rockies/246 Woodpecker - Downey.m4a
+Dusky Flycatcher,Passeriformes,Tyrannidae,Empidonax,Empidonax oberholseri,bird_songs_of_the_rockies/075 Flycatcher - Dusky.m4a
+Evening Grosbeak,Passeriformes,Fringillidae,Coccothraustes,Coccothraustes vespertinus,bird_songs_of_the_rockies/069 Evening Grosbeak.m4a
+Golden-crowned Kinglet,Passeriformes,Regulidae,Regulus,Regulus satrapa,bird_songs_of_the_rockies/120 Kinglet - Golden-crowned.m4a
+Gray Flycatcher,Passeriformes,Tyrannidae,Empidonax,Empidonax wrightii,bird_songs_of_the_rockies/076 Flycatcher - Gray.m4a
+Gray Vireo,Passeriformes,Vireonidae,Vireo,Vireo vicinior,bird_songs_of_the_rockies/223 Vireo - Gray.m4a
+Grace's Warbler,Passeriformes,Parulidae,Setophaga,Setophaga graciae,bird_songs_of_the_rockies/088 Grace's Warbler.m4a
+Green-tailed Towhee,Passeriformes,Passerellidae,Pipilo,Pipilo chlorurus,bird_songs_of_the_rockies/096 Green-Tailed Towhee.m4a
+Hairy Woodpecker,Piciformes,Picidae,Dryobates,Dryobates villosus,bird_songs_of_the_rockies/247 Woodpecker - Hairy.m4a
+Hermit Thrush,Passeriformes,Turdidae,Catharus,Catharus guttatus,bird_songs_of_the_rockies/100 Hermit Thrush.m4a
+House Finch,Passeriformes,Fringillidae,Haemorhous,Haemorhous mexicanus,bird_songs_of_the_rockies/103 House Finch.m4a
+Horned Lark,Passeriformes,Alaudidae,Eremophila,Eremophila alpestris,bird_songs_of_the_rockies/102 Horned Lark.m4a
+House Wren,Passeriformes,Troglodytidae,Troglodytes,Troglodytes aedon,bird_songs_of_the_rockies/253 Wren - House.m4a
+Juniper Titmouse,Passeriformes,Paridae,Baeolophus,Baeolophus ridgwayi,bird_songs_of_the_rockies/114 Juniper Titmouse.m4a
+Lark Sparrow,Passeriformes,Passerellidae,Chondestes,Chondestes grammacus,bird_songs_of_the_rockies/124 Lark Sparrow.m4a
+Lazuli Bunting,Passeriformes,Cardinalidae,Passerina,Passerina amoena,bird_songs_of_the_rockies/125 Lazuli Bunting.m4a
+Lesser Goldfinch,Passeriformes,Fringillidae,Spinus,Spinus psaltria,bird_songs_of_the_rockies/126 Lesser Goldfinch.m4a
+Lewis's Woodpecker,Piciformes,Picidae,Melanerpes,Melanerpes lewis,bird_songs_of_the_rockies/249 Woodpecker - Lewis's.m4a
+Loggerhead Shrike,Passeriformes,Laniidae,Lanius,Lanius ludovicianus,bird_songs_of_the_rockies/191 Shrike - Loggerhead.m4a
+Mountain Bluebird,Passeriformes,Turdidae,Sialia,Sialia currucoides,bird_songs_of_the_rockies/137 Mountain Bluebird.m4a
+Mountain Chickadee,Passeriformes,Paridae,Poecile,Poecile gambeli,bird_songs_of_the_rockies/051 Chickadee - Mountain.m4a
+Mourning Dove,Columbiformes,Columbidae,Zenaida,Zenaida macroura,bird_songs_of_the_rockies/139 Mourning Dove.m4a
+Northern Mockingbird,Passeriformes,Mimidae,Mimus,Mimus polyglottos,bird_songs_of_the_rockies/145 Northern Mockingbird.m4a
+Pinyon Jay,Passeriformes,Corvidae,Gymnorhinus,Gymnorhinus cyanocephalus,bird_songs_of_the_rockies/111 Jay - Pinyon.m4a
+Pine Siskin,Passeriformes,Fringillidae,Spinus,Spinus pinus,bird_songs_of_the_rockies/161 Pine Siskin.m4a
+Plumbeous Vireo,Passeriformes,Vireonidae,Vireo,Vireo plumbeus,bird_songs_of_the_rockies/224 Vireo - Plumbeous.m4a
+Pygmy Nuthatch,Passeriformes,Sittidae,Sitta,Sitta pygmaea,bird_songs_of_the_rockies/151 Nuthatch - Pygmy.m4a
+Red-breasted Nuthatch,Passeriformes,Sittidae,Sitta,Sitta canadensis,bird_songs_of_the_rockies/152 Nuthatch - Red-breasted.m4a
+Red Crossbill,Passeriformes,Fringillidae,Loxia,Loxia curvirostra,bird_songs_of_the_rockies/172 Red Crossbill.m4a
+Red-naped Sapsucker,Piciformes,Picidae,Sphyrapicus,Sphyrapicus nuchalis,bird_songs_of_the_rockies/182 Sapsucker - Red-naped.m4a
+Rock Wren,Passeriformes,Troglodytidae,Salpinctes,Salpinctes obsoletus,bird_songs_of_the_rockies/255 Wren - Rock.m4a
+Northern Flicker,Piciformes,Picidae,Colaptes,Colaptes auratus,bird_songs_of_the_rockies/142 Northern Flicker.m4a
+Sagebrush Sparrow,Passeriformes,Passerellidae,Artemisiospiza,Artemisiospiza nevadensis,bird_songs_of_the_rockies/179 Sage Sparrow.m4a
+Say's Phoebe,Passeriformes,Tyrannidae,Sayornis,Sayornis saya,bird_songs_of_the_rockies/185 Say's Phoebe.m4a
+Sage Thrasher,Passeriformes,Mimidae,Oreoscoptes,Oreoscoptes montanus,bird_songs_of_the_rockies/180 Sage Thrasher.m4a
+Savannah Sparrow,Passeriformes,Passerellidae,Passerculus,Passerculus sandwichensis,bird_songs_of_the_rockies/184 Savannah Sparrow.m4a
+Spotted Towhee,Passeriformes,Passerellidae,Pipilo,Pipilo maculatus,bird_songs_of_the_rockies/201 Spotted Towhee.m4a
+Steller's Jay,Passeriformes,Corvidae,Cyanocitta,Cyanocitta stelleri,bird_songs_of_the_rockies/112 Jay - Steller's.m4a
+Townsend's Solitaire,Passeriformes,Turdidae,Myadestes,Myadestes townsendi,bird_songs_of_the_rockies/215 Townsend's Solitaire.m4a
+Tree Swallow,Passeriformes,Hirundinidae,Tachycineta,Tachycineta bicolor,bird_songs_of_the_rockies/209 Swallow - Tree.m4a
+Vesper Sparrow,Passeriformes,Passerellidae,Pooecetes,Pooecetes gramineus,bird_songs_of_the_rockies/221 Vesper Sparrow.m4a
+Violet-green Swallow,Passeriformes,Hirundinidae,Tachycineta,Tachycineta thalassina,bird_songs_of_the_rockies/210 Swallow - Violet-green.m4a
+Virginia's Warbler,Passeriformes,Parulidae,Leiothlypis,Leiothlypis virginiae,bird_songs_of_the_rockies/227 Virginia's Warbler.m4a
+White-breasted Nuthatch,Passeriformes,Sittidae,Sitta,Sitta carolinensis,bird_songs_of_the_rockies/153 Nuthatch - White-breasted.m4a
+Western Bluebird,Passeriformes,Turdidae,Sialia,Sialia mexicana,bird_songs_of_the_rockies/229 Western Bluebird.m4a
+Western Kingbird,Passeriformes,Tyrannidae,Tyrannus,Tyrannus verticalis,bird_songs_of_the_rockies/118 Kingbird - Western.m4a
+Warbling Vireo,Passeriformes,Vireonidae,Vireo,Vireo gilvus,bird_songs_of_the_rockies/226 Vireo - Warbling.m4a
+Western Meadowlark,Passeriformes,Icteridae,Sturnella,Sturnella neglecta,bird_songs_of_the_rockies/231 Western Meadowlark.m4a
+Western Tanager,Passeriformes,Cardinalidae,Piranga,Piranga ludoviciana,bird_songs_of_the_rockies/233 Western Tanager.m4a
+Western Wood-Pewee,Passeriformes,Tyrannidae,Contopus,Contopus sordidulus,bird_songs_of_the_rockies/234 Western Wood-Pewee.m4a
+Williamson's Sapsucker,Piciformes,Picidae,Sphyrapicus,Sphyrapicus thyroideus,bird_songs_of_the_rockies/183 Sapsucker - Williamson's.m4a
+Woodhouse's Scrub-Jay,Passeriformes,Corvidae,Aphelocoma,Aphelocoma woodhouseii,bird_songs_of_the_rockies/113 Jay - Western Scrub.m4a
+White-throated Swift,Apodiformes,Apodidae,Aeronautes,Aeronautes saxatalis,bird_songs_of_the_rockies/213 Swift - White-Throated.m4a
+Yellow-rumped Warbler,Passeriformes,Parulidae,Setophaga,Setophaga coronata,bird_songs_of_the_rockies/260 Yellow-rumped Warbler.m4a
