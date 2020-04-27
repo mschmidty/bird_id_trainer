@@ -1,4 +1,4 @@
-fetch("/data/cleaned_list_with_filenames.csv")
+fetch("/bird_id_trainer/data/cleaned_list_with_filenames.csv")
   .then((response)=>{
     return response.text()
   })
@@ -20,7 +20,7 @@ fetch("/data/cleaned_list_with_filenames.csv")
 
       `
       <div class = "card" value="${data.common_name}">
-        <img src="/images/${data.common_name}.jpg">
+        <img src="/bird_id_trainer/images/${data.common_name}.jpg">
         <div class = "hide-show-el">
           <h2>${data.common_name}</h2>
           <p>${data.species}</p>
