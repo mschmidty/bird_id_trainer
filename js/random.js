@@ -1,4 +1,4 @@
-fetch("/data/cleaned_list_with_filenames.csv")
+fetch("/bird_id_trainer/data/cleaned_list_with_filenames.csv")
   .then((response)=>{
     return response.text()
   })
@@ -21,7 +21,7 @@ fetch("/data/cleaned_list_with_filenames.csv")
       `
       <div class = "card" value="${data.common_name}">
         <div class = "hide-show-el">
-          <img src="/images/${data.common_name}.jpg">
+          <img src="/bird_id_trainer/images/${data.common_name}.jpg">
           <h2>${data.common_name}</h2>
           <p>${data.species}</p>
         </div>
@@ -30,7 +30,7 @@ fetch("/data/cleaned_list_with_filenames.csv")
             <option value="">--Please choose an option--</option>
           </select>
         </div>
-        <audio controls src = "/${data.audio_file_path }" class = "audio-el"></audio>
+        <audio controls src = "/bird_id_trainer/${data.audio_file_path }" class = "audio-el"></audio>
       </div>
       `
 

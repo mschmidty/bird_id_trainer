@@ -8,4 +8,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("data");
   eleventyConfig.addPassthroughCopy("bird_songs_of_the_rockies");
   eleventyConfig.addPassthroughCopy("images");
+  return{
+    pathPrefix:'bird_id_trainer'
+  };
 };

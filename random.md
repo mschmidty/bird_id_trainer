@@ -1,6 +1,6 @@
 ---
 layout: default.html
-customjs: "/js/random.js"
+customjs: "/bird_id_trainer/js/random.js"
 ---
 
 <header class = "entry-header">
