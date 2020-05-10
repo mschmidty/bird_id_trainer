@@ -55,6 +55,7 @@ h1{
   flex-wrap: wrap;
   position:relative;
 }
+
 div.card:nth-of-type(2n){
   margin-left: 40px;
 }
@@ -96,6 +97,20 @@ div.card:nth-of-type(2n){
   background: #eeeff0;
   box-shadow:  2px 2px 5px rgba(0,0,0,0.2),
              -2px -2px 5px #ffffff;
+}
+
+@media all and (max-width: 675px){
+  .card-wrap{
+    display:block;
+  }
+  div.card{
+    width:100%;
+    margin:40px 0;
+  }
+  div.card:nth-of-type(2n){
+    width:100%;
+    margin-left:0;
+  }
 }
 header.entry-header{
   width:95%;
@@ -145,6 +160,16 @@ header.entry-header h1{
 .list-of-selections input{
   width: 1.2rem;
   height: 1.2rem;
+}
+@media all and (max-width:900px) and (min-width:600px){
+  .list-of-selections li{
+    width:50%;
+  }
+}
+@media all and (max-width:599px){
+  .list-of-selections li{
+    width:100%;
+  }
 }
 
 button.button{
